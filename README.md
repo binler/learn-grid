@@ -16,3 +16,4 @@
 * W3C: [CSS Grid Layout Module Level 1](https://www.w3.org/TR/css-grid-1/)
 * Igalia: [CSS Grid Layout](https://github.com/Igalia/css-grid-layout/)
 * Assortment + Luke Whitehouse: [Introducing CSS Grids](https://assortment.io/posts/introducing-css-grids)
+* Rachel Andrew: [What's next for CSS Grid Layout?](https://24ways.org/2016/what-next-for-css-grid-layout/)
