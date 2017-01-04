@@ -18,3 +18,5 @@
 * Assortment + Luke Whitehouse: [Introducing CSS Grids](https://assortment.io/posts/introducing-css-grids)
 * Jen Simmons: [Experimental Layout Lab](http://labs.jensimmons.com)
 * Rachel Andrew: [What's next for CSS Grid Layout?](https://24ways.org/2016/what-next-for-css-grid-layout/)
+* Rachel Andrew: [CSS Grid is Coming](https://rachelandrew.co.uk/archives/2017/01/03/css-grid-is-coming/)
+* Rachel Andrew: [CSS Grid AMA](https://github.com/rachelandrew/cssgrid-ama)
