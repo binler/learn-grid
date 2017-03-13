@@ -22,3 +22,4 @@
 * Rachel Andrew: [CSS Grid AMA](https://github.com/rachelandrew/cssgrid-ama)
 * Michael Gearon: [CSS Grid Layout Codepen Collection](https://codepen.io/collection/noEZGe/)
 * Codrops: [A Complete Guide ot CSS Gride](https://tympanus.net/codrops/css_reference/grid/)
+* Robin Rendle: [Getting Started with CSS Grid](https://css-tricks.com/getting-started-css-grid/)
